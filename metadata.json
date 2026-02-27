@@ -1,0 +1,5 @@
+{
+  "name": "GroupPay",
+  "description": "Manage shared subscription payments and receipts for a group.",
+  "requestFramePermissions": []
+}
